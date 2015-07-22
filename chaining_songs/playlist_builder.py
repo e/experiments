@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Small script written by mark in order to be hired by CrowdScores
+Small script to chain songs
 """
 
 import argparse
